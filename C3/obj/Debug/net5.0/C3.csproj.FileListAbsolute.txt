@@ -1,0 +1,15 @@
+/Users/laytonjd/Desktop/C3/bin/Debug/net5.0/C3.deps.json
+/Users/laytonjd/Desktop/C3/bin/Debug/net5.0/C3.runtimeconfig.json
+/Users/laytonjd/Desktop/C3/bin/Debug/net5.0/C3.runtimeconfig.dev.json
+/Users/laytonjd/Desktop/C3/bin/Debug/net5.0/C3.dll
+/Users/laytonjd/Desktop/C3/bin/Debug/net5.0/ref/C3.dll
+/Users/laytonjd/Desktop/C3/bin/Debug/net5.0/C3.pdb
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.csproj.AssemblyReference.cache
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.AssemblyInfoInputs.cache
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.AssemblyInfo.cs
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.csproj.CoreCompileInputs.cache
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.dll
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/ref/C3.dll
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.pdb
+/Users/laytonjd/Desktop/C3/obj/Debug/net5.0/C3.genruntimeconfig.cache
