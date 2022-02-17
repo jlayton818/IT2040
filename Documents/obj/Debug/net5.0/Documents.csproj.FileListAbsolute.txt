@@ -1,0 +1,15 @@
+/Users/laytonjd/Desktop/IT2040/Documents/bin/Debug/net5.0/Documents.deps.json
+/Users/laytonjd/Desktop/IT2040/Documents/bin/Debug/net5.0/Documents.runtimeconfig.json
+/Users/laytonjd/Desktop/IT2040/Documents/bin/Debug/net5.0/Documents.runtimeconfig.dev.json
+/Users/laytonjd/Desktop/IT2040/Documents/bin/Debug/net5.0/Documents.dll
+/Users/laytonjd/Desktop/IT2040/Documents/bin/Debug/net5.0/ref/Documents.dll
+/Users/laytonjd/Desktop/IT2040/Documents/bin/Debug/net5.0/Documents.pdb
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.csproj.AssemblyReference.cache
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.AssemblyInfoInputs.cache
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.AssemblyInfo.cs
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.csproj.CoreCompileInputs.cache
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.dll
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/ref/Documents.dll
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.pdb
+/Users/laytonjd/Desktop/IT2040/Documents/obj/Debug/net5.0/Documents.genruntimeconfig.cache

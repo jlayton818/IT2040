@@ -1,0 +1,15 @@
+/Users/laytonjd/Desktop/Chapter2/C# Basics/bin/Debug/net5.0/C# Basics.deps.json
+/Users/laytonjd/Desktop/Chapter2/C# Basics/bin/Debug/net5.0/C# Basics.runtimeconfig.json
+/Users/laytonjd/Desktop/Chapter2/C# Basics/bin/Debug/net5.0/C# Basics.runtimeconfig.dev.json
+/Users/laytonjd/Desktop/Chapter2/C# Basics/bin/Debug/net5.0/C# Basics.dll
+/Users/laytonjd/Desktop/Chapter2/C# Basics/bin/Debug/net5.0/ref/C# Basics.dll
+/Users/laytonjd/Desktop/Chapter2/C# Basics/bin/Debug/net5.0/C# Basics.pdb
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.csproj.AssemblyReference.cache
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.AssemblyInfoInputs.cache
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.AssemblyInfo.cs
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.csproj.CoreCompileInputs.cache
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.dll
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/ref/C# Basics.dll
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.pdb
+/Users/laytonjd/Desktop/Chapter2/C# Basics/obj/Debug/net5.0/C# Basics.genruntimeconfig.cache
