@@ -1,0 +1,15 @@
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/bin/Debug/net5.0/RealDocumentMerger.deps.json
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/bin/Debug/net5.0/RealDocumentMerger.runtimeconfig.json
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/bin/Debug/net5.0/RealDocumentMerger.runtimeconfig.dev.json
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/bin/Debug/net5.0/RealDocumentMerger.dll
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/bin/Debug/net5.0/ref/RealDocumentMerger.dll
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/bin/Debug/net5.0/RealDocumentMerger.pdb
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.csproj.AssemblyReference.cache
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.AssemblyInfoInputs.cache
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.AssemblyInfo.cs
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.csproj.CoreCompileInputs.cache
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.dll
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/ref/RealDocumentMerger.dll
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.pdb
+/Users/laytonjd/Desktop/IT2040/RealDocumentMerger/obj/Debug/net5.0/RealDocumentMerger.genruntimeconfig.cache
